@@ -14,7 +14,9 @@ Creemos que es hora de cambiar esa mentalidad. **Queremos que veas los retos y l
 
 **Esperamos que desde este momento, y por el resto de tu vida, nunca dejes de aprender**: no importa qué edad tengas, si tienes un trabajo o no, si ganas mucho o poco; tampoco importa lo que estés aprendiendo. La educación debe dejar de ser un proceso lineal para nuestros primeros 25 a 30 años y se debe convertir en el eje central de nuestras vidas.
 
-Aprender a aprender es quizá una de las habilidades más importantes que adquirirás y pondrás en práctica en Make it Real. La información hoy cuesta muy poco y es relativamente fácil de obtener. El verdadero reto es buscar, filtrar, y usar esa información para resolver problemas reales. Y de eso se trata la programación.
+Aprender a aprender es quizá una de las habilidades más importantes que adquirirás y pondrás en práctica en Make it Real. La información hoy cuesta muy poco y es relativamente fácil de obtener. El verdadero reto es buscar, filtrar, y usar esa información para resolver problemas reales. Y de eso se trata la programación. 
+
+Te recomendamos [este curso en Coursera](https://www.coursera.org/learn/learning-how-to-learn) que trata precisamente sobre el aprendizaje y tiene subtítulos en Español por si te interesa seguirlo en paralelo.
 
 **También esperamos que desde este momento, y por el resto de tu vida, nunca dejes de crear**: no importa qué edad tengas, si tienes un trabajo o no, si ganas mucho o poco; tampoco importa lo que estés creando: un post, una aplicación Web, una manualidad, una composición musical, no importa. El mensaje es que la creatividad no es un proceso espontáneo, la creatividad se debe practicar todos los días.
 
