@@ -78,6 +78,11 @@ Es importante que dispongas de al menos una hora para la sesión de pair-program
 
 Si quieres, puedes ser el navegador de otros en retos que ya hayas completado. Es una excelente forma de reforzar los conocimientos y ayudar a los demás. Intenta no ver tu solución.
 
+Te compartimos el siguiente video que grabamos en donde explicamos pair-programming y hacemos una sesión real para que te des cuenta de cómo funciona.
+
+<a href="//fast.wistia.net/embed/iframe/19wn5g9ij2?popover=true" class="wistia-popover[height=400,playerColor=7b796a,width=640]"><img src="https://embed-ssl.wistia.com/deliveries/e87961b3141de76ef7d5b02704378582def9e4f0.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x94" alt="" /></a>
+<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+
 ## ¿Cómo pedir ayuda?
 
 Aprender a pedir ayuda es una habilidad fundamental que deberás desarrollar, no solo para Make it Real, sino para trabajar con otras personas, y en sitios de Q&A como StackOverflow.
