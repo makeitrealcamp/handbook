@@ -16,11 +16,11 @@ Creemos que es hora de cambiar esa mentalidad. **Queremos que veas los retos y l
 
 Aprender a aprender es quizá una de las habilidades más importantes que adquirirás y pondrás en práctica en Make it Real. La información hoy cuesta muy poco y es relativamente fácil de obtener. El verdadero reto es buscar, filtrar, y usar esa información para resolver problemas reales. Y de eso se trata la programación. 
 
-Te recomendamos [este curso en Coursera](https://www.coursera.org/learn/learning-how-to-learn) que trata precisamente sobre el aprendizaje y tiene subtítulos en Español por si te interesa seguirlo en paralelo.
+(Te recomendamos [este curso en Coursera](https://www.coursera.org/learn/learning-how-to-learn) que trata precisamente sobre el aprendizaje y tiene subtítulos en Español por si te interesa seguirlo en paralelo.)
 
 **También esperamos que desde este momento, y por el resto de tu vida, nunca dejes de crear**: no importa qué edad tengas, si tienes un trabajo o no, si ganas mucho o poco; tampoco importa lo que estés creando: un post, una aplicación Web, una manualidad, una composición musical, no importa. El mensaje es que la creatividad no es un proceso espontáneo, la creatividad se debe practicar todos los días.
 
-Desde este momento haces parte de una comunidad de creadores y creadoras que van a construir las aplicaciones del futuro y se están preparando para eso. Una comunidad que se se apoya, porque el principal objetivo de cada uno de sus integrantes es maximizar su aprendizaje, no obtener una buena calificación, ni conseguir un título con el menor esfuerzo posible.
+Desde este momento haces parte de una comunidad de creadores que van a construir las aplicaciones del futuro y se están preparando para eso. Una comunidad que se se apoya, porque el principal objetivo de cada uno de sus integrantes es maximizar su aprendizaje, no obtener una buena calificación, ni conseguir un título con el menor esfuerzo posible.
 
 Hemos invertido miles de horas creando este programa. Hemos sacrificado incontables momentos con nuestras familias para diseñar la mejor experiencia para ti. No creemos tener el programa perfecto, pero creemos que podemos mejorarlo día a día, y para eso necesitamos tu ayuda. Si encuentras algo que no esté funcionando, cuéntanos, tu retroalimentación es muy importante para nosotros.
 
@@ -32,7 +32,7 @@ Más que un programa en el que vas a aprender a programar y a crear tus aplicaci
 
 > Los Makers entienden que el aprendizaje es un proceso continuo y para toda la vida, y por eso nunca dejan de aprender.
 
-> Los Makers nunca dejan de crear porque saben que la creatividad se debe practicar y no ese proceso espontáneo que los medios nos hacen creer.
+> Los Makers nunca dejan de crear, porque saben que la creatividad se debe practicar y no ese proceso espontáneo que los medios nos hacen creer.
 
 > Los Makers toman la iniciativa, sin esperar a que les digan qué hacer.
 
