@@ -14,7 +14,7 @@ Creemos que es hora de cambiar esa mentalidad. **Queremos que veas los retos y l
 
 **Esperamos que desde este momento, y por el resto de tu vida, nunca dejes de aprender**: no importa qué edad tengas, si tienes un trabajo o no, si ganas mucho o poco; tampoco importa lo que estés aprendiendo. La educación debe dejar de ser un proceso lineal para nuestros primeros 25 a 30 años y se debe convertir en el eje central de nuestras vidas.
 
-Aprender a aprender es quizá una de las habilidades más importantes que adquirirás y pondrás en práctica en Make it Real. La información hoy cuesta muy poco y es relativamente fácil de obtener. El verdadero reto es buscar, filtrar, y usar esa información para resolver problemas reales. Y de eso se trata la programación. 
+Aprender a aprender es quizá una de las habilidades más importantes que adquirirás y pondrás en práctica en Make it Real. La información hoy cuesta muy poco y es relativamente fácil de obtener. El verdadero reto es buscar, filtrar y usar esa información para resolver problemas reales. Y de eso se trata la programación.
 
 (Te recomendamos [este curso en Coursera](https://www.coursera.org/learn/learning-how-to-learn) que trata precisamente sobre el aprendizaje y tiene subtítulos en Español por si te interesa seguirlo en paralelo.)
 
@@ -26,7 +26,7 @@ Hemos invertido miles de horas creando este programa. Hemos sacrificado incontab
 
 ## La mentalidad del Maker
 
-Más que un programa en el que vas a aprender a programar y a crear tus aplicaciones Web, en Make it Real serás parte de una cultura, un movimiento, y una nueva forma de pensar. En Make it Real te convertirás en un **Maker**:
+Más que un programa en el que vas a aprender a programar y a crear tus aplicaciones Web, en Make it Real serás parte de una cultura, un movimiento y una nueva forma de pensar. En Make it Real te convertirás en un **Maker**:
 
 > Los Makers son un grupo de personas que no se conforman con el status quo y han tomado el control de sus vidas. Un grupo de personas que dejaron de ser consumidores pasivos, para convertirse en **creadores activos**.
 
@@ -42,19 +42,19 @@ Más que un programa en el que vas a aprender a programar y a crear tus aplicaci
 
 > Los Makers se apropian de su aprendizaje. Entienden que la frustración es parte del proceso y una señal de que están aprendiendo, que lo están intentando.
 
-> Los Makers adoptan el **kaizen**, o la práctica del mejoramiento continuo porque saben que cada día es una oportunidad para aprender, crear, y mejorar.
+> Los Makers adoptan el **kaizen**, o la práctica del mejoramiento continuo porque saben que cada día es una oportunidad para aprender, crear y mejorar.
 
-## Espacio, horarios, y distracciones
+## Espacio, horarios y distracciones
 
 No todos somos productivos a las mismas horas del día. A algunos nos gusta trasnochar, otros preferimos madrugar. Unos preferimos trabajar desde la casa, otros no. Esa es una de las razones por las que hemos diseñado un programa completamente online. Pero esa flexibilidad requiere de gran responsabilidad.
 
 Es importante que crees hábitos porque no siempre vas a tener la motivación que tienes en este momento. De esa forma podrás avanzar a pesar de las dificultades que se te presenten en el proceso. Busca un espacio de trabajo donde te puedas concentrar, ya sea un espacio compartido (co-working space), un café, o cualquier otro sitio en el que te sientas más cómodo(a). Puedes preguntar en Slack si alguien te puede recomendar un sitio cerca de donde vives.
 
-Elimina todas las distracciones durante las horas que decidas trabajar. **Los programadores necesitamos varias horas de concentración continua para ser productivos**. Apaga el celular, cierra Facebook, Twitter, y cualquier otra página que no esté relacionada con lo que estés haciendo. Te recomendamos [este post](http://99u.com/articles/6969/10-online-tools-for-better-attention-focus) que recomienda algunas herramientas que te ayudarán a mantenerte concentrado(a).
+Elimina todas las distracciones durante las horas que decidas trabajar. **Los programadores necesitamos varias horas de concentración continua para ser productivos**. Apaga el celular, cierra Facebook, Twitter y cualquier otra página que no esté relacionada con lo que estés haciendo. Te recomendamos [este post](http://99u.com/articles/6969/10-online-tools-for-better-attention-focus) que recomienda algunas herramientas que te ayudarán a mantenerte concentrado(a).
 
 ## La comunidad
 
-Uno de los aspectos más valiosos de Make it Real es su comunidad. El punto de encuentro es Slack, un chat en el que podrás interactuar con mentores y estudiantes para pedir ayuda, compartir conocimiento, solucionar dudas, crear grupos de estudio, y coordinar sesiones de pair-programming. Pero también encontrarás otros espacios de interacción (comentarios, formularios de retroalimentación, etc.).
+Uno de los aspectos más valiosos de Make it Real es su comunidad. El punto de encuentro es Slack, un chat en el que podrás interactuar con mentores y estudiantes para pedir ayuda, compartir conocimiento, solucionar dudas, crear grupos de estudio y coordinar sesiones de pair-programming. Pero también encontrarás otros espacios de interacción (comentarios, formularios de retroalimentación, etc.).
 
 Nuestro objetivo es crear un ambiente agradable para todos los miembros de la comunidad, independiente de su nivel de conocimiento. Sé amable y respetuoso(a) con los demás. Crear ese ambiente es una responsabilidad de todos. 
 
@@ -64,7 +64,7 @@ Te recomendamos que veas esta presentación de Julián Duque: [¿Cómo no ser un
 
 Pair-programming es una técnica de desarrollo ágil en el que dos programadores trabajan en el mismo computador. Uno tiene el rol de **conductor**, que es el que escribe el código, mientras que el otro tiene el rol de **navegador**, que le indica al **conductor** lo que debe ir haciendo.
 
-El objetivo de pair-programming es aumentar la productividad de los programadores y mejorar la calidad del código. Pero en Make it Real es una oportunidad para que conozcas otros estudiantes, aprendas más rápido, enseñes, y no tengas que resolver todos los retos y proyectos solo(a).
+El objetivo de pair-programming es aumentar la productividad de los programadores y mejorar la calidad del código. Pero en Make it Real es una oportunidad para que conozcas otros estudiantes, aprendas más rápido, enseñes y no tengas que resolver todos los retos y proyectos solo(a).
 
 Los retos y proyectos que más se prestan para hacer pair-programming están identificados con el siguiente ícono:
 
@@ -83,15 +83,17 @@ Te compartimos el siguiente video que grabamos en donde explicamos pair-programm
 <a href="//fast.wistia.net/embed/iframe/19wn5g9ij2?popover=true" class="wistia-popover[height=400,playerColor=7b796a,width=640]"><img src="https://embed-ssl.wistia.com/deliveries/e87961b3141de76ef7d5b02704378582def9e4f0.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x94" alt="" /></a>
 <script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js"></script>
 
-## ¿Cómo pedir ayuda?
+## ¿Cuándo y cómo pedir ayuda?
 
 Aprender a pedir ayuda es una habilidad fundamental que deberás desarrollar, no solo para Make it Real, sino para trabajar con otras personas, y en sitios de Q&A como StackOverflow.
 
 Puedes pedir ayuda a través de Slack en los canales que hemos dispuesto para cada tema. Dirígete a la comunidad. Es posible que a alguien más haya tenido un problema similar y te pueda ayudar más rápido que los mentores.
 
+El objetivo es que no te atasques. Pero antes de preguntar asegúrate que al menos has completado los primeros 3 o 4 recursos de cada tema, y que has buscado en Internet por al menos 15 minutos.
+
 Sigue estos pasos a la hora de pedir ayuda:
 
-1. Escribe en algún lado (diferente a Slack) lo que quieres preguntar como si fueras a enviar un email a un colega con el problema. Sé lo más específico(a) posible: el mensaje de error que te está apareciendo, lo que has intentado, y lo que has buscado en Internet. Escribir nos ayuda a organizar las ideas y hemos visto como muchas personas logran solucionar los problemas durante este proceso.
+1. Escribe en algún lado (diferente a Slack) lo que quieres preguntar como si fueras a enviar un email a un colega con el problema. Sé lo más específico(a) posible: el mensaje de error que te está apareciendo, lo que has intentado y lo que has buscado en Internet. Escribir nos ayuda a organizar las ideas y hemos visto como muchas personas logran solucionar los problemas durante este proceso.
 2. Revisa la redacción y la ortografía. De esa forma prácticas la comunicación escrita y haces más fácil el proceso para todos.
 3. Publica tu pregunta en el canal del tema correspondiente. Recuerda nunca publicar posibles respuestas en un canal público. Si crees que tu pregunta revelaría la respuesta de algún reto, dirígete privadamente a un mentor.
 
@@ -115,7 +117,7 @@ Make it Real está dividido en 10 temas:
 * Ruby Avanzado.
 * Ruby on Rails II.
 
-En la plataforma de aprendizaje, cada tema tiene un encabezado (con una breve introducción y una barra que indica tu progreso), y algunas de las siguientes secciones. 
+En la plataforma de aprendizaje, cada tema tiene un encabezado (con una breve introducción y una barra que indica tu progreso) y algunas de las siguientes secciones. 
 
 * Retos
 * Recursos
@@ -129,11 +131,11 @@ Los proyectos están diseñado para que pongas en práctica todos tus conocimien
 
 Pídele al programador más experimentado que conozcas que escriba un programa para copiar los contenidos de un archivo a otro, pero **sin buscar en Internet**. Podríamos apostar que menos del 5% lo lograría. Y eso está bien.
 
-La programación no es de memorizar. La programación es acerca de conocer los conceptos básicos y aprender a buscar en Internet, filtrar, y usar esa información para resolver problemas reales. Esa es una habilidad que se desarrolla con el tiempo, y que debes practicar desde ahora.
+La programación no es de memorizar. La programación es acerca de conocer los conceptos básicos y aprender a buscar en Internet, filtrar y usar esa información para resolver problemas reales. Esa es una habilidad que se desarrolla con el tiempo, y que debes practicar desde ahora.
 
 Es por eso que hemos diseñado una metodología que al principio puede que se sienta incómoda porque es diferente a lo que estamos acostumbrados, pero que está cuidadosamente pensada para desarrollar las habilidades que requieres para convertirte en un buen programador.
 
-Cada vez que completes un reto se desbloqueará una página en la que te mostramos nuestra solución oficial, alternativas, mejores prácticas, conceptos, y un espacio de discusión en el que puedes comentar. Se puede decir que para acceder a la explicación necesitas primero solucionar el reto. Suena extraño pero el objetivo es que practiques la búsqueda en Internet.
+Cada vez que completes un reto se desbloqueará una página en la que te mostramos nuestra solución oficial, alternativas, mejores prácticas, conceptos y un espacio de discusión en el que puedes comentar. Se puede decir que para acceder a la explicación necesitas primero solucionar el reto. Suena extraño pero el objetivo es que practiques la búsqueda en Internet.
 
 ## ¿Cómo abordar cada tema?
 
@@ -149,7 +151,7 @@ El objetivo es que encuentres qué es lo que mejor funciona para tu aprendizaje,
 
 ## ¿Cómo manejar la frustración?
 
-A medida que avances en el programa te vas a encontrar con conceptos que no vas a entender a la primera explicación, o a la segunda. Vas a encontrar retos que al principio parecen imposibles de solucionar. Eso puede generar frustración, miedo, y ansiedad. Es normal. Pero en vez de pensar "no lo voy a lograr", piensa y repite en voz alta "eventualmente lo lograré". 
+A medida que avances en el programa te vas a encontrar con conceptos que no vas a entender a la primera explicación, o a la segunda. Vas a encontrar retos que al principio parecen imposibles de solucionar. Eso puede generar frustración, miedo y ansiedad. Es normal. Pero en vez de pensar "no lo voy a lograr", piensa y repite en voz alta "eventualmente lo lograré". 
 
 La frustración es normal. De hecho, es una indicación de que estás aprendiendo. Lo importante es aprender a manejar esa sensación y evitar caer en parálisis.
 
@@ -163,7 +165,7 @@ Sin embargo, **creemos que la única forma de mejorar es a través de la retroal
 
 ### Al dar retroalimentación
 
-Sé CREA (Claro(a), Respetuoso(a), Específico(a), y Amable) a la hora de dar retroalimentación. Antes de publicar tu comentario, pregúntate si le estás aportando algo positivo a la persona que va a recibir la retroalimentación. Asegúrate que tu comentario sea de fondo y no de forma. 
+Sé CREA (Claro(a), Respetuoso(a), Específico(a) y Amable) a la hora de dar retroalimentación. Antes de publicar tu comentario, pregúntate si le estás aportando algo positivo a la persona que va a recibir la retroalimentación. Asegúrate que tu comentario sea de fondo y no de forma. 
 
 ### Al recibir retroalimentación
 
@@ -185,4 +187,4 @@ La línea de comandos (también llamada consola) es quizá la herramienta más i
 
 ## Siguientes pasos
 
-Asegúrate de haber completado el módulo de **Una nueva mentalidad**. Después revisa y completa los proyectos de **HTML y CSS**, y **Ruby Básico**.
+Asegúrate de haber completado el módulo de **Una nueva mentalidad**. Después revisa y completa los proyectos de **HTML y CSS** y **Ruby Básico**.
