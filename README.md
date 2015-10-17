@@ -4,96 +4,61 @@ Hola Maker,
 
 Queremos darte la más calurosa bienvenida a Make it Real. Este handbook es tu punto de partida y el manual de instrucciones del programa. Te recomendamos que lo leas con calma y en su totalidad.
 
-## Make it Real
+## Una nueva mentalidad
 
-Make it Real es un programa diseñado para que aprendas a crear tus propias aplicaciones Web, ya sea para conseguir un empleo como desarrollador(a) Web Junior, o para que crees tus propios productos digitales.
+Make it Real es un programa diseñado para que aprendas a construir tus propias aplicaciones Web, ya sea para que encuentres un mejor empleo, o para que crees tu propia empresa de tecnología.
 
-Pero nuestro verdadero objetivo es mucho más profundo y ambicioso. El sistema educativo tradicional nos ha creado lo que Carol Dweck, en su libro [Mindset](http://www.amazon.com/Mindset-How-Fulfil-Your-Potential-ebook/dp/B005RZB65Q/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=), llama **mentalidad fija**. En vez de ver los exámenes como oportunidades de aprendizaje, los veíamos como momentos en que nuestra inteligencia iba a ser puesta a prueba, y lo único que esperábamos era no fallar. Fallar, nos enseñaron, es algo que debemos evitar.
+Pero además, serás parte de un movimiento de personas con una forma diferente de pensar, una cultura, en donde se valora más lo que has creado, por encima de los “títulos” y los “certificados”.
 
-Creemos que es hora de cambiar esa mentalidad. **Queremos que veas los retos y la retroalimentación como oportunidades de aprendizaje**, en donde fallar se convierte en algo positivo, algo que te indica que lo estás intentando. Intenta, intenta, intenta, e intenta, hasta que funcione. Si no lo estás intentando, no estás aprendiendo.
+Eso requiere de un cambio de mentalidad.
 
-**Esperamos que desde este momento, y por el resto de tu vida, nunca dejes de aprender**: no importa qué edad tengas, si tienes un trabajo o no, si ganas mucho o poco; tampoco importa lo que estés aprendiendo. La educación debe dejar de ser un proceso lineal para nuestros primeros 25 a 30 años y se debe convertir en el eje central de nuestras vidas.
+Desafortunadamente la educación tradicional nos ha acostumbrado a pagar para que nos obliguen a estudiar y nos digan exactamente qué hacer. Eso funciona si tu objetivo es encontrar un empleo mecánico que no requiere iniciativa ni creatividad, pero esos empleos son escasos y mal pagos.
 
-Aprender a aprender es quizá una de las habilidades más importantes que adquirirás y pondrás en práctica en Make it Real. La información hoy cuesta muy poco y es relativamente fácil de obtener. El verdadero reto es buscar, filtrar y usar esa información para resolver problemas reales. Y de eso se trata la programación.
+Lo que separa a las personas exitosas de los demás es la capacidad de tener iniciativa y disciplina sin presiones de otros, es decir, las personas exitosas no necesitan que alguien les diga exactamente qué hacer y los esté presionando para que lo terminen; y eso es muy diferente a lo que nos acostumbra nuestro modelo de educación actual.
 
-(Te recomendamos [este curso en Coursera](https://www.coursera.org/learn/learning-how-to-learn) que trata precisamente sobre el aprendizaje y tiene subtítulos en Español por si te interesa seguirlo en paralelo.)
+En Make it Real serás parte de ese cambio. Desde este momento **tu eres el(la) responsable de tu aprendizaje**. Piensa en nosotros como guías que te ayudamos a encontrar el camino y acelerar tu aprendizaje, pero tu debes cruzarlo.
 
-**También esperamos que desde este momento, y por el resto de tu vida, nunca dejes de crear**: no importa qué edad tengas, si tienes un trabajo o no, si ganas mucho o poco; tampoco importa lo que estés creando: un post, una aplicación Web, una manualidad, una composición musical, no importa. El mensaje es que la creatividad no es un proceso espontáneo, la creatividad se debe practicar todos los días.
-
-Desde este momento haces parte de una comunidad de creadores que van a construir las aplicaciones del futuro y se están preparando para eso. Una comunidad que se se apoya, porque el principal objetivo de cada uno de sus integrantes es maximizar su aprendizaje, no obtener una buena calificación, ni conseguir un título con el menor esfuerzo posible.
-
-Hemos invertido miles de horas creando este programa. Hemos sacrificado incontables momentos con nuestras familias para diseñar la mejor experiencia para ti. No creemos tener el programa perfecto, pero creemos que podemos mejorarlo día a día, y para eso necesitamos tu ayuda. Si encuentras algo que no esté funcionando, cuéntanos, tu retroalimentación es muy importante para nosotros.
-
-## La mentalidad del Maker
-
-Más que un programa en el que vas a aprender a programar y a crear tus aplicaciones Web, en Make it Real serás parte de una cultura, un movimiento y una nueva forma de pensar. En Make it Real te convertirás en un **Maker**:
-
-> Los Makers son un grupo de personas que no se conforman con el status quo y han tomado el control de sus vidas. Un grupo de personas que dejaron de ser consumidores pasivos, para convertirse en **creadores activos**.
-
-> Los Makers entienden que el aprendizaje es un proceso continuo y para toda la vida, y por eso nunca dejan de aprender.
-
-> Los Makers nunca dejan de crear, porque saben que la creatividad se debe practicar y no ese proceso espontáneo que los medios nos hacen creer.
-
-> Los Makers toman la iniciativa, sin esperar a que les digan qué hacer.
-
-> Los Makers son optimistas y perseverantes. En vez de ver los obstáculos y las dificultades como situaciones que se deben evitar, los ven como oportunidades para aprender y mejorar.
-
-> Los Makers no le temen al fracaso, porque saben que solo se fracasa cuando se deja intentar.
-
-> Los Makers se apropian de su aprendizaje. Entienden que la frustración es parte del proceso y una señal de que están aprendiendo, que lo están intentando.
-
-> Los Makers adoptan el **kaizen**, o la práctica del mejoramiento continuo porque saben que cada día es una oportunidad para aprender, crear y mejorar.
+![Luke y Yoda de Star Wars](https://s3.amazonaws.com/makeitreal/handbook/start-wars-annotated.jpg)
 
 ## Espacio, horarios y distracciones
 
 No todos somos productivos a las mismas horas del día. A algunos nos gusta trasnochar, otros preferimos madrugar. Unos preferimos trabajar desde la casa, otros no. Esa es una de las razones por las que hemos diseñado un programa completamente online. Pero esa flexibilidad requiere de gran responsabilidad.
 
-Es importante que crees hábitos porque no siempre vas a tener la motivación que tienes en este momento. De esa forma podrás avanzar a pesar de las dificultades que se te presenten en el proceso. Busca un espacio de trabajo donde te puedas concentrar, ya sea un espacio compartido (co-working space), un café, o cualquier otro sitio en el que te sientas más cómodo(a). Puedes preguntar en Slack si alguien te puede recomendar un sitio cerca de donde vives.
+Es importante que crees hábitos porque no siempre vas a tener la motivación que tienes en este momento. De esa forma podrás avanzar a pesar de las dificultades que se te presenten en el proceso. Busca un espacio de trabajo donde te puedas concentrar, ya sea un espacio compartido (co-working space), un café, o cualquier otro sitio en el que te sientas más cómodo(a).
 
 Elimina todas las distracciones durante las horas que decidas trabajar. **Los programadores necesitamos varias horas de concentración continua para ser productivos**. Apaga el celular, cierra Facebook, Twitter y cualquier otra página que no esté relacionada con lo que estés haciendo. Te recomendamos [este post](http://99u.com/articles/6969/10-online-tools-for-better-attention-focus) que recomienda algunas herramientas que te ayudarán a mantenerte concentrado(a).
 
 ## La comunidad
 
-Uno de los aspectos más valiosos de Make it Real es su comunidad. El punto de encuentro es Slack, un chat en el que podrás interactuar con mentores y estudiantes para pedir ayuda, compartir conocimiento, solucionar dudas, crear grupos de estudio y coordinar sesiones de pair-programming. Pero también encontrarás otros espacios de interacción (comentarios, formularios de retroalimentación, etc.).
+El punto de encuentro de la comunidad es [Slack](http://slack.com/), un chat en el que podrás interactuar con mentores y estudiantes para pedir ayuda, compartir conocimiento, solucionar dudas, crear grupos de estudio y coordinar sesiones de pair-programming.
 
-Nuestro objetivo es crear un ambiente agradable para todos los miembros de la comunidad, independiente de su nivel de conocimiento. Sé amable y respetuoso(a) con los demás. Crear ese ambiente es una responsabilidad de todos. 
+Asegúrate de tener acceso a Slack y [descargar el cliente para tu computador y teléfono móvil](https://slack.com/apps).
 
-Te recomendamos que veas esta presentación de Julián Duque: [¿Cómo no ser un patán?](http://slides.com/julianduque/no-ser-un-patan)
+![Slack](https://s3.amazonaws.com/makeitreal/handbook/slack.png)
 
-## Sesiones de pair-programming
+Slack está dividio en dos secciones. A la izquierda (fondo oscuro) están los canales y los usuarios; y a la derecha (fondo claro) está la ventana de chat.
 
-Pair-programming es una técnica de desarrollo ágil en el que dos programadores trabajan en el mismo computador. Uno tiene el rol de **conductor**, que es el que escribe el código, mientras que el otro tiene el rol de **navegador**, que le indica al **conductor** lo que debe ir haciendo.
+Cuando ingresas por primera vez vas a tener acceso a los siguientes canales:
 
-El objetivo de pair-programming es aumentar la productividad de los programadores y mejorar la calidad del código. Pero en Make it Real es una oportunidad para que conozcas otros estudiantes, aprendas más rápido, enseñes y no tengas que resolver todos los retos y proyectos solo(a).
+* **#general**: en este canal hablamos de programación en general, compartimos contenido interesante, etc.
+* **#html-css-bootstrap**: en este canal hablamos sobre HTML, CSS y Bootstrap. Los estudiantes hacen preguntas sobre estos temas.
+* **#random**: en este canal compartimos cualquier cosa que no se adapte a los demás canales.
+* **#tricks-2-share**: en este canal compartimos trucos sobre cualquier tema.
+* **#sugerencias-y-bugs**: en este canal los estudiantes nos dan sugerencias para mejorar el programa y reportan errores en la plataforma.
+* **#pair-programming**: en este canal los estudiantes coordinan sesiones de pair programming para trabajar en los retos y en los proyectos.
+* **#startup-ideas**: en este canal compartimos y discutimos ideas de emprendimiento.
 
-Los retos y proyectos que más se prestan para hacer pair-programming están identificados con el siguiente ícono:
+Existen más canales a los que te puedes unir como `#git-github`, `#js-jquery-ajax` y `#ruby-rails`, pero nuestra recomendación es que no te unas hasta que llegues a esos módulos para que no recibas notificaciones de temas a los que aún no has llegado.
 
-<img src="https://s3.amazonaws.com/makeitreal/pair-programming-icon.png" alt="Pair programming">
+Además de los canales, puedes abrir un canal privado con cualquier usuario. Recuerda que los mentores estamos identificados con `(m)` al final del nombre.
 
-**Hacer pair-programming no es obligatorio, pero es altamente recomendado.**
-
-La forma de encontrar pareja para hacer pair-programming es a través de Slack. Publica el reto o el proyecto para el que quieres hacer pair-programming, y si buscas un conductor, un navegador, o cualquiera de los dos. Una vez que hayas encontrado pareja, pueden usar Skype, Google Hangouts, o cualquier otra herramienta para comunicarse.
-
-Es importante que dispongas de al menos una hora para la sesión de pair-programming.
-
-Si quieres, puedes ser el navegador de otros en retos que ya hayas completado. Es una excelente forma de reforzar los conocimientos y ayudar a los demás. Intenta no ver tu solución.
-
-Te compartimos el siguiente video que grabamos en donde explicamos pair-programming y hacemos una sesión real para que te des cuenta de cómo funciona.
-
-<a href="//fast.wistia.net/embed/iframe/19wn5g9ij2?popover=true" class="wistia-popover[height=400,playerColor=7b796a,width=640]"><img src="https://embed-ssl.wistia.com/deliveries/e87961b3141de76ef7d5b02704378582def9e4f0.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x94" alt="" /></a>
-<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+Si tienes alguna duda de cómo utilizar alguna funcionalidad de Slack, no dudes en preguntarle a tu mentor.
 
 ## ¿Cuándo y cómo pedir ayuda?
 
-Aprender a pedir ayuda es una habilidad fundamental que deberás desarrollar, no solo para Make it Real, sino para trabajar con otras personas, y en sitios de Q&A como StackOverflow.
+Cuando vayas a pedir ayuda, ya sea directamente al mentor o a la comunidad en los canales dispuestos, ten en cuenta los siguientes pasos:
 
-Puedes pedir ayuda a través de Slack en los canales que hemos dispuesto para cada tema. Dirígete a la comunidad. Es posible que a alguien más haya tenido un problema similar y te pueda ayudar más rápido que los mentores.
-
-El objetivo es que no te atasques. Pero antes de preguntar asegúrate que al menos has completado los primeros 3 o 4 recursos de cada tema, y que has buscado en Internet por al menos 15 minutos.
-
-Sigue estos pasos a la hora de pedir ayuda:
-
-1. Escribe en algún lado (diferente a Slack) lo que quieres preguntar como si fueras a enviar un email a un colega con el problema. Sé lo más específico(a) posible: el mensaje de error que te está apareciendo, lo que has intentado y lo que has buscado en Internet. Escribir nos ayuda a organizar las ideas y hemos visto como muchas personas logran solucionar los problemas durante este proceso.
+1. Escribe en algún lado (diferente a Slack) lo que quieres preguntar como si fueras a enviar un email a un colega con el problema. Sé lo más específico(a) posible: el mensaje de error que te está apareciendo, lo que has intentado y lo que has buscado en Internet. Escribir te va a ayudar a organizar las ideas y hemos visto como muchas personas logran solucionar los problemas durante este proceso.
 2. Revisa la redacción y la ortografía. De esa forma prácticas la comunicación escrita y haces más fácil el proceso para todos.
 3. Publica tu pregunta en el canal del tema correspondiente. Recuerda nunca publicar posibles respuestas en un canal público. Si crees que tu pregunta revelaría la respuesta de algún reto, dirígete privadamente a un mentor.
 
@@ -101,90 +66,73 @@ Los mentores están identificados con la letra m entre paréntesis (m) al final 
 
 **Recuerda nunca publicar soluciones completas o parciales en Slack** a menos de que estés hablando en privado con un mentor.
 
-## Estructura del programa
+## La plataforma de aprendizaje
 
-Make it Real está dividido en 10 temas:
+Es muy probable que estés leyendo esto en la plataforma de aprendizaje, que ha sido construída en su totalidad por nosotros y su código es abierto (Open Source) para que cuando llegues a los niveles más avanzados conozcas cómo está creada una aplicación Web compleja.
 
-* Una nueva mentalidad.
-* HTML y CSS.
-* Ruby Básico.
-* Git y Github.
-* Bootstrap.
-* Intro a Web Development.
-* Ruby on Rails I.
-* JavaScript.
-* jQuery y AJAX.
-* Ruby Avanzado.
-* Ruby on Rails II.
+El programa está dividido en 3 fases: Programador aprendiz, Desarrollador Web y Desarrollador Web profesional.
 
-En la plataforma de aprendizaje, cada tema tiene un encabezado (con una breve introducción y una barra que indica tu progreso) y algunas de las siguientes secciones. 
+Cada fase tiene varios módulos. Por ejemplo, Programador aprendiz tiene 5 módulos: Curso de preparación, HTML y CSS, Bootstrap, Git y Github, y Ruby.
 
-* Retos
-* Recursos
-* Proyectos
+Cada módulo está dividido en retos, recursos, proyectos y quizzes como se muestra en la siguiente imagen:
 
-Los retos son problemas cuidadosamente diseñados para maximizar tu aprendizaje. Los recursos te dan el conocimiento del tema, algunos han sido creados por nosotros, otros los hemos seleccionado cuidadosamente de Internet. 
+![Módulos de Make it Real](https://s3.amazonaws.com/makeitreal/handbook/module.png)
 
-Los proyectos están diseñado para que pongas en práctica todos tus conocimientos del tema e intentes hacer algo más completo y complejo que los retos. Opcionalmente puedes habilitar el feedback para que otras personas (mentores y alumnos) comenten y te den retroalimentación.
+### Retos
 
-## El sistema de retos
+Nuestra filosofía en Make it Real es **aprender haciendo**. Queremos que desde el primer día intentes solucionar los retos. Busca en Internet información que te ayude a solucionarlo. **Encontrar respuestas rápido en Internet es lo que separa a las personas que aprenden a programar de las que no**. Y queremos que practiques eso todos los días.
 
-Pídele al programador más experimentado que conozcas que escriba un programa para copiar los contenidos de un archivo a otro, pero **sin buscar en Internet**. Podríamos apostar que menos del 5% lo lograría. Y eso está bien.
+Cada vez que soluciones un reto vas a ganar puntos y avanzar de nivel. Más abajo te explicamos cómo funcionan.
 
-La programación no es de memorizar. La programación es acerca de conocer los conceptos básicos y aprender a buscar en Internet, filtrar y usar esa información para resolver problemas reales. Esa es una habilidad que se desarrolla con el tiempo, y que debes practicar desde ahora.
+Pero lo más importante es que después de solucionar un reto tendrás acceso a la **página de discusión** del reto en donde explicamos conceptos, mejores prácticas y alternativas. Además, tendrás la oportunidad de comentar sobre el reto:
 
-Es por eso que hemos diseñado una metodología que al principio puede que se sienta incómoda porque es diferente a lo que estamos acostumbrados, pero que está cuidadosamente pensada para desarrollar las habilidades que requieres para convertirte en un buen programador.
+![La página de discusión](https://s3.amazonaws.com/makeitreal/handbook/discusion.png)
 
-Cada vez que completes un reto se desbloqueará una página en la que te mostramos nuestra solución oficial, alternativas, mejores prácticas, conceptos y un espacio de discusión en el que puedes comentar. Se puede decir que para acceder a la explicación necesitas primero solucionar el reto. Suena extraño pero el objetivo es que practiques la búsqueda en Internet.
+### Recursos
 
-## ¿Cómo abordar cada tema?
+En la pestaña de **recursos** de cada módulo encontrarás links a recursos que hemos seleccionado o creado para que complementes tu aprendizaje. Nuestro consejo es que los sigas paralelamente a los retos.
 
-Todo en Make it Real es opcional (retos, recursos, proyectos, etc.). Creemos que es momento de que **te apropies de tu aprendizaje** y decidas qué tanto quieres profundizar.
+En especial revisa los creados por nosotros que están identificados con una M a la izquierda como se muestra en la siguiente imagen:
 
-El objetivo es que encuentres qué es lo que mejor funciona para tu aprendizaje, pero nuestra recomendación para abordar los temas es la siguiente:
+![Recursos propios](https://s3.amazonaws.com/makeitreal/handbook/resources-annotated.jpg)
 
-1. Dale una ojeada a los primeros retos para ver qué tan difíciles están.
-2. Mira el primer recurso, o los dos primeros, que generalmente son una introducción al tema.
-3. Intenta solucionar los primeros retos. Busca en Internet a ver si algo funciona.
-4. Sigue avanzando en los recursos, pero ve consultando siempre los siguientes retos.  El objetivo es que eventualmente completes todos los retos y veas todos los recursos.
-5. Una vez que hayas completado los retos y los recursos, trabaja en los proyectos.
+### Proyectos
 
-## ¿Cómo manejar la frustración?
+Los proyectos son quizá lo más importante de cada módulo porque pondrás en práctica lo aprendido durante los retos y con los recursos para construir algo más complejo.
 
-A medida que avances en el programa te vas a encontrar con conceptos que no vas a entender a la primera explicación, o a la segunda. Vas a encontrar retos que al principio parecen imposibles de solucionar. Eso puede generar frustración, miedo y ansiedad. Es normal. Pero en vez de pensar "no lo voy a lograr", piensa y repite en voz alta "eventualmente lo lograré". 
+Los proyectos son revisados por tu mentor que te va a dar retroalimentación de tu código para que sigas mejorando.
 
-La frustración es normal. De hecho, es una indicación de que estás aprendiendo. Lo importante es aprender a manejar esa sensación y evitar caer en parálisis.
+En algunos módulos encontrarás un proyecto llamado **Proyecto Personal** en el que trabajarás en tu propio proyecto a medida que avanzas en el programa. Habla con tu mentor y cuéntale tu idea de proyecto para que te asesore.
 
-La **parálisis** es el peor enemigo del aprendizaje. Y la única forma de combatirla es siendo optimistas y perseverantes. Cuando sientas que estás entrando en parálisis, avanza. No te preocupes. Eventualmente lo dominarás, es cuestión de tiempo.
+Cuando termines un proyecto podrás ver la solución de otros Makers para que sigas aprendiendo.
 
-## Constante Retroalimentación
+### Quizzes
 
-En Make it Real no vas a recibir calificaciones ni certificados. Nuestro objetivo es que te concentres en el aprendizaje y en construir, no en una calificación.
+Actualmente nos encontramos trabajando en el módulo de Quizzes. Puedes repetir los quizzes las veces que lo consideres necesario. Nuestro objetivo no es evaluarte, es que tu te autoevalúes.
 
-Sin embargo, **creemos que la única forma de mejorar es a través de la retroalimentación**. Es por eso que todos los retos son auto evaluables, y eso es un comienzo. Pero habrán muchas más oportunidades de dar y recibir retroalimentación. 
+### Sistema de puntos, niveles e insignias
 
-### Al dar retroalimentación
+Cada vez que soluciones un reto o completes un proyecto vas a obtener puntos que te van a permitir avanzar de nivel y obtener insignias.
 
-Sé CREA (Claro(a), Respetuoso(a), Específico(a) y Amable) a la hora de dar retroalimentación. Antes de publicar tu comentario, pregúntate si le estás aportando algo positivo a la persona que va a recibir la retroalimentación. Asegúrate que tu comentario sea de fondo y no de forma. 
+En Make it Real hemos definido **9 niveles** de habilidad. Cuando ingresas a Make it Real tu nivel es **Teclado Blanco**. A medida que obtienes puntos avanzas en los siguientes niveles:
 
-### Al recibir retroalimentación
+* **Teclado Amarillo**: 1000 puntos.
+* **Teclado Naranja**: 3000 puntos.
+* **Teclado Verde**: 6000 puntos.
+* **Teclado Azul**: 9500 puntos.
+* **Teclado Purpura**: 13000 puntos.
+* **Teclado Café**: 16500 puntos.
+* **Teclado Rojo**: 21000 puntos.
+* **Teclado Negro**: 26000 puntos.
 
-Mira la retroalimentación como una oportunidad de aprendizaje, **de mejora continua**. Es tu decisión implementar o no los cambios que otros integrantes de la comunidad te sugieran. Pero ten en cuenta que son personas que se tomaron la molestia de revisar y escribir un comentario de lo que has hecho.
+Para cada uno de los módulos (exceptuando el curso de preparación) existen unas insignias que vas a recibir a medida que avances en ese módulo. En la siguiente imagen están las tres de Ruby:
 
-## Teclear rápido
+## Conclusión
 
-Una de las habilidades más importantes que puedes desarrollar como programador(a) es teclear rápido. Tu objetivo será teclear al menos 50ppm (palabras por minuto). Tómate un momento para medir tu velocidad en [typeracer](http://play.typeracer.com/).
+Nuestro programa se basa en la filosofía de **aprender haciendo**. Uno no aprende a desarrollar escuchando una cátedra o viendo videos de forma pasiva. Uno aprende intentando solucionar retos y construyendo aplicaciones.
 
-Si estás por debajo de 50ppm practica al menos 20 minutos cada día. Algunos recursos que te pueden servir son:
+Hemos invertido miles de horas creando este programa. No creemos tener el programa perfecto, pero creemos que podemos mejorarlo día a día y para eso también necesitamos tu ayuda. Si encuentras algo que no esté funcionando, cuéntanos, tu retroalimentación es muy importante para nosotros.
 
-* [Type-fu](http://type-fu.com/): este recurso te va ayudar con los fundamentos.
-* [TypeRacer](http://play.typeracer.com/): este es nuestro favorito. A veces organizamos carreras a través del chat. Participa así no estés sobre los 50ppm. Míralo como una oportunidad de practicar.
-* [Typing.io](https://typing.io/): practica con código Ruby y Ruby on Rails.
+Por último, no sobra repetir que estamos dispuestos a ayudarte en lo que necesites, pero esperamos que tu también pongas de tu parte. Recuerda que, el(la) único(a) responsable de tu aprendizaje eres tu. Sal e investiga los temas, eso es mucho más valioso que esperar a que te digan qué hacer. Avanza en los retos y apoyate de nosotros para mantener el ritmo y no atascarte. 
 
-## La línea de comandos
-
-La línea de comandos (también llamada consola) es quizá la herramienta más importante de programadores y programadoras. Si nunca la has usado, te recomendamos [este post](http://makeitreal.camp/2015/04/07/la-linea-de-comandos/) del blog de Make it Real que explica qué es y por qué es tan importante para los programadores. También [este recurso](http://learnrubythehardway.org/book/appendixa.html) para que aprendas los comandos básicos.
-
-## Siguientes pasos
-
-Asegúrate de haber completado el módulo de **Una nueva mentalidad**. Después revisa y completa los proyectos de **HTML y CSS** y **Ruby Básico**.
+**Te prometemos que valdrá la pena**. Cuando termines los (aproximadamente) 120 retos y los (aprox) 10 proyectos estarás listo(a) para encontrar un empleo y enfrentarte a cualquier problema. Y no ovides que incluso en ese momento estaremos ahí para apoyarte.
