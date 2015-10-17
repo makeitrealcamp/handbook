@@ -12,9 +12,9 @@ Pero además, serás parte de un movimiento de personas con una forma diferente 
 
 Eso requiere de un cambio de mentalidad.
 
-Desafortunadamente la educación tradicional nos ha acostumbrado a pagar para que nos obliguen a estudiar y nos digan exactamente qué hacer. Eso funciona si tu objetivo es encontrar un empleo mecánico que no requiere iniciativa ni creatividad, pero esos empleos son escasos y mal pagos.
+Desafortunadamente la educación tradicional nos ha acostumbrado a pagar para que nos obliguen a estudiar y nos digan exactamente qué hacer. Eso funciona si tu objetivo es encontrar un empleo mecánico y repetitivo que no requiere iniciativa ni creatividad, pero esos empleos son escasos y mal pagos.
 
-Lo que separa a las personas exitosas de los demás es la capacidad de tener iniciativa y disciplina sin presiones de otros, es decir, las personas exitosas no necesitan que alguien les diga exactamente qué hacer y los esté presionando para que lo terminen; y eso es muy diferente a lo que nos acostumbra nuestro modelo de educación actual.
+Lo que separa a las personas exitosas de los demás es la capacidad de tener iniciativa y disciplina sin presiones de otros, es decir, aquellas personas que no necesitan que alguien les diga exactamente qué hacer y los esté presionando para que lo terminen; y eso es muy diferente a lo que nos acostumbra nuestro modelo de educación actual.
 
 En Make it Real serás parte de ese cambio. Desde este momento **tu eres el(la) responsable de tu aprendizaje**. Piensa en nosotros como guías que te ayudamos a encontrar el camino y acelerar tu aprendizaje, pero tu debes cruzarlo.
 
@@ -42,13 +42,13 @@ Cuando ingresas por primera vez vas a tener acceso a los siguientes canales:
 
 * **#general**: en este canal hablamos de programación en general, compartimos contenido interesante, etc.
 * **#html-css-bootstrap**: en este canal hablamos sobre HTML, CSS y Bootstrap. Los estudiantes hacen preguntas sobre estos temas.
-* **#random**: en este canal compartimos cualquier cosa que no se adapte a los demás canales.
 * **#tricks-2-share**: en este canal compartimos trucos sobre cualquier tema.
 * **#sugerencias-y-bugs**: en este canal los estudiantes nos dan sugerencias para mejorar el programa y reportan errores en la plataforma.
 * **#pair-programming**: en este canal los estudiantes coordinan sesiones de pair programming para trabajar en los retos y en los proyectos.
 * **#startup-ideas**: en este canal compartimos y discutimos ideas de emprendimiento.
+* **#random**: en este canal compartimos cualquier cosa que no se adapte a los demás canales.
 
-Existen más canales a los que te puedes unir como `#git-github`, `#js-jquery-ajax` y `#ruby-rails`, pero nuestra recomendación es que no te unas hasta que llegues a esos módulos para que no recibas notificaciones de temas a los que aún no has llegado.
+Existen más canales a los que te puedes unir como `#git-github`, `#js-jquery-ajax` y `#ruby-rails`, pero nuestra recomendación es que no te unas hasta que llegues a esos módulos para que no recibas notificaciones de temas en los que no estás trabajando.
 
 Además de los canales, puedes abrir un canal privado con cualquier usuario. Recuerda que los mentores estamos identificados con `(m)` al final del nombre.
 
@@ -68,7 +68,7 @@ Los mentores están identificados con la letra m entre paréntesis (m) al final 
 
 ## La plataforma de aprendizaje
 
-Es muy probable que estés leyendo esto en la plataforma de aprendizaje, que ha sido construída en su totalidad por nosotros y su código es abierto (Open Source) para que cuando llegues a los niveles más avanzados conozcas cómo está creada una aplicación Web compleja.
+Es muy probable que estés leyendo esto en la plataforma de aprendizaje, que ha sido construída en su totalidad por nosotros y su [código es abierto]() (Open Source) para que cuando llegues a los niveles más avanzados conozcas cómo está creada una aplicación Web compleja.
 
 El programa está dividido en 3 fases: Programador aprendiz, Desarrollador Web y Desarrollador Web profesional.
 
