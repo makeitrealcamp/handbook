@@ -20,6 +20,8 @@ En Make it Real serás parte de ese cambio. Desde este momento **tu eres el(la) 
 
 ![Luke y Yoda de Star Wars](https://s3.amazonaws.com/makeitreal/handbook/start-wars-annotated.jpg)
 
+En la pelicula Star Wars: The Empire Strikes Back, [Yoda](https://en.wikipedia.org/wiki/Yoda) (a la derecha en la imagen) reta, aconseja y utiliza su sabiduría para guíar a [Luke Skywalker](https://en.wikipedia.org/wiki/Luke_Skywalker) en su entrenamiento, pero es Luke el que debe ejecutarlo.
+
 ## Espacio, horarios y distracciones
 
 No todos somos productivos a las mismas horas del día. A algunos nos gusta trasnochar, otros preferimos madrugar. Unos preferimos trabajar desde la casa, otros no. Esa es una de las razones por las que hemos diseñado un programa completamente online. Pero esa flexibilidad requiere de gran responsabilidad.
@@ -90,7 +92,7 @@ Pero lo más importante es que después de solucionar un reto tendrás acceso a 
 
 ### Recursos
 
-En la pestaña de **recursos** de cada módulo encontrarás links a recursos que hemos seleccionado o creado para que complementes tu aprendizaje. Nuestro consejo es que los sigas paralelamente a los retos.
+En la pestaña de **recursos** de cada módulo encontrarás links a recursos que hemos creado o seleccionado para que complementes tu aprendizaje. Nuestro consejo es que los sigas paralelamente a los retos.
 
 En especial revisa los creados por nosotros que están identificados con una M a la izquierda como se muestra en la siguiente imagen:
 
@@ -137,6 +139,8 @@ Uno no aprende desarrollo Web escuchando una cátedra o viendo videos de forma p
 
 Recuerda que tu eres el(la) único(a) responsable de tu aprendizaje. Sal e investiga los temas, eso es mucho más valioso que esperar a que te digan qué hacer. Avanza en los retos y apóyate en nosotros para mantener el ritmo y no atascarte.
 
-**Te prometemos que valdrá la pena**. Cuando termines los (aproximadamente) 120 retos y los (aproximadamente) 10 proyectos estarás listo(a) para encontrar un empleo y enfrentarte a cualquier problema. Pero no ovides que incluso en ese momento estaremos ahí para apoyarte.
+**Te prometemos que valdrá la pena**. Cuando termines los (aproximadamente) 120 retos y los (aproximadamente) 12 proyectos estarás listo(a) para encontrar un empleo y enfrentarte a cualquier nuevo reto. Pero no ovides que incluso en ese momento estaremos ahí para apoyarte.
 
-Hemos invertido miles de horas creando este programa. No creemos tener el programa perfecto, pero creemos que podemos mejorarlo día a día y para eso también necesitamos tu ayuda. Si encuentras algo que no esté funcionando, cuéntanos, tu retroalimentación es muy importante para nosotros.
+Por último, necesitamos tu ayuda para seguir mejorando. Si encuentras algo que no esté funcionando o tienes alguna sugerencia, cuéntanos, tu retroalimentación es muy importante para nosotros. Puedes hacerlo a través del canal de `#sugerencias-y-bugs` o directamente a alguno de los mentores.
+
+¡Que comience el entrenamiento!
