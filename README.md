@@ -1,8 +1,8 @@
-# Make it Real Handbook
+# Guía del estudiante
 
 Hola Maker, 
 
-Queremos darte la más calurosa bienvenida a Make it Real. Este handbook es tu punto de partida y el manual de instrucciones del programa. Te recomendamos que lo leas con calma y en su totalidad.
+Queremos darte la más calurosa bienvenida a Make it Real. Esta guía es tu punto de partida y el manual de instrucciones del programa. Te recomendamos que la leas con calma y en su totalidad.
 
 ## Una nueva mentalidad
 
