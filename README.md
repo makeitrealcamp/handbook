@@ -128,7 +128,7 @@ En Make it Real hemos definido **9 niveles** de habilidad. Cuando ingresas a Mak
 Para cada uno de los módulos (exceptuando el curso de preparación) existen unas insignias que vas a recibir a medida que avances en ese módulo. Por ejemplo, las siguientes son las de jQuery y AJAX:
 
 <div style="text-align: center">
-   <img src="https://s3.amazonaws.com/makeitreal/handbook/badges.png" alt="Insignias de jQuery y AJAX" style="max-width: 100%">
+   <img src="https://s3.amazonaws.com/makeitreal/handbook/badges.png" alt="Insignias de jQuery y AJAX" style="max-width: 100%; width: initial;">
 </div>
 
 ## Conclusión
