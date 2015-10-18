@@ -133,10 +133,10 @@ Para cada uno de los módulos (exceptuando el curso de preparación) existen una
 
 ## Conclusión
 
-Nuestro programa se basa en la filosofía de **aprender haciendo**. Uno no aprende a desarrollar escuchando una cátedra o viendo videos de forma pasiva. Uno aprende intentando solucionar retos y construyendo aplicaciones.
+Uno no aprende desarrollo Web escuchando una cátedra o viendo videos de forma pasiva. Uno aprende intentando solucionar retos y construyendo aplicaciones. Es por eso que nuestro programa se basa en la filosofía de **aprender haciendo**.
+
+Recuerda que tu eres el(la) único(a) responsable de tu aprendizaje. Sal e investiga los temas, eso es mucho más valioso que esperar a que te digan qué hacer. Avanza en los retos y apóyate en nosotros para mantener el ritmo y no atascarte.
+
+**Te prometemos que valdrá la pena**. Cuando termines los (aproximadamente) 120 retos y los (aproximadamente) 10 proyectos estarás listo(a) para encontrar un empleo y enfrentarte a cualquier problema. Pero no ovides que incluso en ese momento estaremos ahí para apoyarte.
 
 Hemos invertido miles de horas creando este programa. No creemos tener el programa perfecto, pero creemos que podemos mejorarlo día a día y para eso también necesitamos tu ayuda. Si encuentras algo que no esté funcionando, cuéntanos, tu retroalimentación es muy importante para nosotros.
-
-Por último, no sobra repetir que estamos dispuestos a ayudarte en lo que necesites, pero esperamos que tu también pongas de tu parte. Recuerda que, el(la) único(a) responsable de tu aprendizaje eres tu. Sal e investiga los temas, eso es mucho más valioso que esperar a que te digan qué hacer. Avanza en los retos y apoyate de nosotros para mantener el ritmo y no atascarte. 
-
-**Te prometemos que valdrá la pena**. Cuando termines los (aproximadamente) 120 retos y los (aprox) 10 proyectos estarás listo(a) para encontrar un empleo y enfrentarte a cualquier problema. Y no ovides que incluso en ese momento estaremos ahí para apoyarte.
