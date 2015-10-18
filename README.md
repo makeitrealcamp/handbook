@@ -100,7 +100,7 @@ En especial revisa los creados por nosotros que están identificados con una M a
 
 ### Proyectos
 
-Los proyectos son quizá lo más importante de cada módulo porque pondrás en práctica lo aprendido durante los retos y con los recursos para construir algo más complejo.
+Los proyectos son quizá lo más importante de cada módulo porque pondrás en práctica lo aprendido durante los retos y en los recursos para construir algo más complejo.
 
 Los proyectos son revisados por tu mentor que te va a dar retroalimentación de tu código para que sigas mejorando.
 
@@ -143,4 +143,6 @@ Recuerda que tu eres el(la) único(a) responsable de tu aprendizaje. Sal e inves
 
 Por último, necesitamos tu ayuda para seguir mejorando. Si encuentras algo que no esté funcionando o tienes alguna sugerencia, cuéntanos, tu retroalimentación es muy importante para nosotros. Puedes hacerlo a través del canal de `#sugerencias-y-bugs` o directamente a alguno de los mentores.
 
-¡Que comience el entrenamiento!
+---
+
+Eso es todo por ahora. ¡Que comience el entrenamiento!
