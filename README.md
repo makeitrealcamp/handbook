@@ -125,7 +125,9 @@ En Make it Real hemos definido **9 niveles** de habilidad. Cuando ingresas a Mak
 * **Teclado Rojo**: 21000 puntos.
 * **Teclado Negro**: 26000 puntos.
 
-Para cada uno de los módulos (exceptuando el curso de preparación) existen unas insignias que vas a recibir a medida que avances en ese módulo. En la siguiente imagen están las tres de Ruby:
+Para cada uno de los módulos (exceptuando el curso de preparación) existen unas insignias que vas a recibir a medida que avances en ese módulo. Por ejemplo, las siguientes son las de jQuery y AJAX:
+
+![Insignias de jQuery y AJAX](https://s3.amazonaws.com/makeitreal/handbook/badges.png)
 
 ## Conclusión
 
