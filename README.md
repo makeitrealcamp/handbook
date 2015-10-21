@@ -119,13 +119,13 @@ Cada vez que soluciones un reto o completes un proyecto vas a obtener puntos que
 En Make it Real hemos definido **9 niveles** de habilidad. Cuando ingresas a Make it Real tu nivel es **Teclado Blanco**. A medida que obtienes puntos avanzas en los siguientes niveles:
 
 * **Teclado Amarillo**: 1000 puntos.
-* **Teclado Naranja**: 3000 puntos.
-* **Teclado Verde**: 6000 puntos.
-* **Teclado Azul**: 9500 puntos.
-* **Teclado Purpura**: 13000 puntos.
-* **Teclado Café**: 16500 puntos.
-* **Teclado Rojo**: 21000 puntos.
-* **Teclado Negro**: 26000 puntos.
+* **Teclado Naranja**: 2500 puntos.
+* **Teclado Verde**: 4500 puntos.
+* **Teclado Azul**: 7500 puntos.
+* **Teclado Purpura**: 10500 puntos.
+* **Teclado Café**: 13500 puntos.
+* **Teclado Rojo**: 16500 puntos.
+* **Teclado Negro**: 20000 puntos.
 
 Para cada uno de los módulos (exceptuando el curso de preparación) existen unas insignias que vas a recibir a medida que avances en ese módulo. Por ejemplo, las siguientes son las de jQuery y AJAX:
 
